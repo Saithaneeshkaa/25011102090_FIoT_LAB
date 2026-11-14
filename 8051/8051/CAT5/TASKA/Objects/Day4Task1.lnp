@@ -1,4 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\timer_led.obj" 
-TO ".\Objects\Day4Task1" 
-PRINT(".\Listings\Day4Task1.m51") RAMSIZE(256) 
