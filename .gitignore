@@ -1,7 +1,4 @@
-
-# =========================
-# STM32CubeIDE build files
-# =========================
+# STM32 build output
 **/Debug/
 **/Release/
 *.elf
@@ -9,33 +6,20 @@
 *.o
 *.d
 *.map
-*.list
 *.cyclo
 *.su
 
-# =========================
-# Keil C51 generated files
-# =========================
-**/Objects/
-**/Listings/
-*.obj
-*.lnp
-*.m51
-*.lst
+# Keil temporary files
 *.bak
 *.build_log.htm
 *.uvguix.*
 
-# =========================
-# Temporary files
-# =========================
+# General temporary files
 *.tmp
 *.log
 *.swp
 *.DS_Store
 Thumbs.db
 
-# =========================
-# Editor / workspace files
-# =========================
+# Editor settings
 .vscode/
